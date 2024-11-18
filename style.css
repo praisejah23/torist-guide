@@ -137,6 +137,7 @@ form {
     background-color: #f9f9f9;
     max-width: 500px;
     margin: 0 auto;
+    margin-bottom: 5rem;
 }
 
 form label {
@@ -184,7 +185,10 @@ footer a{
     text-decoration: none;
     margin: 0 10px;
 }
-
+.error-message{
+ color: red;
+ font-style: italic;
+}
 
 [class*="col-"] {
     float: left;
